@@ -105,7 +105,7 @@ int main(void) {
     case 3:
         TAM = 6;  
         vidas = 12;
-        total_digitos = 7;
+        total_digitos = 8;
         vetor.bolas_branca_e_preta = (char *) realloc(vetor.bolas_branca_e_preta, 6 * sizeof(char));
         vetor.tentativa = (int *)realloc(vetor.tentativa, 6 * sizeof(int)); 
         break;
