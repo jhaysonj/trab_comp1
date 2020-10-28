@@ -154,4 +154,4 @@ void validacao_acesso_regras(int num1) {
         printf("Nesse caso, vamos ao codigo.\n");
     }
 
-}
+}   
